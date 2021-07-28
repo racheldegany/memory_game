@@ -3,12 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "bootstrap": "^5.0.2",
+    "eslint-plugin-react-hooks": "^4.2.1-alpha-c76e4dbbc-20210722",
+    "node-sass": "^6.0.1",
     "react": "^17.0.2",
+    "react-bootstrap": "^2.0.0-beta.4",
+    "react-card-flip": "^1.1.1",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "react-spring": "^9.2.4",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
